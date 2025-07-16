@@ -76,7 +76,7 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## ❤️ Made with love & code by \[Your Name]
+## ❤️ Made with love & code by Jhinuk Roy
 
 ```
 
